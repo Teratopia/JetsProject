@@ -1,0 +1,5 @@
+package week2;
+
+public enum Rank {
+	AIRMAN, SENIOR_AIRMAN, FIRST_LIEUTENANT, SECOND_LIEUTENANT, CAPTAIN
+}
