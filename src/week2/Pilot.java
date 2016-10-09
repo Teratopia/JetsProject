@@ -22,9 +22,9 @@ public class Pilot {
 	}
 	
 	public void displayPilot(){
-		System.out.println("  Name-\t"+this.getName());
-		System.out.println("  Rank-\t"+this.getRank());
-		System.out.println("  Age-\t"+this.getAge());
+		System.out.println("  Name-\t\t"+this.getName());
+		System.out.println("  Rank-\t\t"+this.getRank());
+		System.out.println("  Age-\t\t"+this.getAge());
 		System.out.println();
 		
 	}
